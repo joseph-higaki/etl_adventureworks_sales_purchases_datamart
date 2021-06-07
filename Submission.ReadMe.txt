@@ -1,0 +1,6 @@
+The document "Adventureworks.Sales.Purchases.DataManagement" was made in Google Docs and explain the work of our assignment. 
+We published in both formats so that our teachers review whichever is easier for them:
+Adventureworks.Sales.Purchases.DataManagement.docx
+Adventureworks.Sales.Purchases.DataManagement.pdf 
+
+In that document, there's an appendix explaining the supporting technical files: *.ktr, *.kjb, *.sql
