@@ -1,0 +1,2 @@
+# adventureworks_sales_purchases_datamart
+Sales and Purchases Datamarts from Adventureworks, as final project from the Data Management course from the Big Data &amp; Analytics Masters @ EAE class of 2021
